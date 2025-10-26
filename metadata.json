@@ -1,0 +1,5 @@
+{
+  "name": "RSI Sıklık Analizi",
+  "description": "A web-based cryptocurrency analysis tool that replicates the functionality of the provided Python script. It performs RSI frequency analysis to identify overbought/oversold assets and includes a 'Breakout Hunter' feature to spot potential dip-buying opportunities on the Binance exchange.",
+  "requestFramePermissions": []
+}
